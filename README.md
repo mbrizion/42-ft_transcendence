@@ -1,16 +1,6 @@
-### usage
-- docker-compose up --build
-### content
-- prisma database, just a User for now
-### dependencies
-- classValidator / classTransformer
-- argon2
-- prisma
-- config ( @nestjs/config )
-
 ### Langage used
-- Backend with NestJS.
-- Frontend in React + Typescript
+- Backend with NestJS / PostgreSQL.
+- Frontend in React / Typescript
 
 ### Live Chat
 <img width="900" alt="Capture_decran_2023-01-23_a_14 41 39" src="https://user-images.githubusercontent.com/50905325/214917188-99ec6df5-3dbc-4625-b858-3f7476d89ad6.png">
